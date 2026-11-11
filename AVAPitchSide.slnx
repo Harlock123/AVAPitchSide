@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AVAPitchSide/AVAPitchSide.csproj" />
+  <Project Path="tests/AVAPitchSide.Tests/AVAPitchSide.Tests.csproj" />
+</Solution>
